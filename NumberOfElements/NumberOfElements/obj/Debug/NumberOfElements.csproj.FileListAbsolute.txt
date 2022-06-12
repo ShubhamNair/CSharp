@@ -1,0 +1,8 @@
+F:\HandsOn\Introduction to DotNet and C# fundamentals\NumberOfElements\NumberOfElements\bin\Debug\NumberOfElements.exe.config
+F:\HandsOn\Introduction to DotNet and C# fundamentals\NumberOfElements\NumberOfElements\bin\Debug\NumberOfElements.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\NumberOfElements\NumberOfElements\bin\Debug\NumberOfElements.pdb
+F:\HandsOn\Introduction to DotNet and C# fundamentals\NumberOfElements\NumberOfElements\obj\Debug\NumberOfElements.csproj.AssemblyReference.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\NumberOfElements\NumberOfElements\obj\Debug\NumberOfElements.csproj.SuggestedBindingRedirects.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\NumberOfElements\NumberOfElements\obj\Debug\NumberOfElements.csproj.CoreCompileInputs.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\NumberOfElements\NumberOfElements\obj\Debug\NumberOfElements.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\NumberOfElements\NumberOfElements\obj\Debug\NumberOfElements.pdb
