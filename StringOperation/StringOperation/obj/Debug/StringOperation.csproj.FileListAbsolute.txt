@@ -1,0 +1,8 @@
+F:\HandsOn\Introduction to DotNet and C# fundamentals\StringOperation\StringOperation\bin\Debug\StringOperation.exe.config
+F:\HandsOn\Introduction to DotNet and C# fundamentals\StringOperation\StringOperation\bin\Debug\StringOperation.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\StringOperation\StringOperation\bin\Debug\StringOperation.pdb
+F:\HandsOn\Introduction to DotNet and C# fundamentals\StringOperation\StringOperation\obj\Debug\StringOperation.csproj.AssemblyReference.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\StringOperation\StringOperation\obj\Debug\StringOperation.csproj.SuggestedBindingRedirects.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\StringOperation\StringOperation\obj\Debug\StringOperation.csproj.CoreCompileInputs.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\StringOperation\StringOperation\obj\Debug\StringOperation.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\StringOperation\StringOperation\obj\Debug\StringOperation.pdb
