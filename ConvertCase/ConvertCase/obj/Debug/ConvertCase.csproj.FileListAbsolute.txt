@@ -1,0 +1,8 @@
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ConvertCase\ConvertCase\bin\Debug\ConvertCase.exe.config
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ConvertCase\ConvertCase\bin\Debug\ConvertCase.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ConvertCase\ConvertCase\bin\Debug\ConvertCase.pdb
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ConvertCase\ConvertCase\obj\Debug\ConvertCase.csproj.AssemblyReference.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ConvertCase\ConvertCase\obj\Debug\ConvertCase.csproj.SuggestedBindingRedirects.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ConvertCase\ConvertCase\obj\Debug\ConvertCase.csproj.CoreCompileInputs.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ConvertCase\ConvertCase\obj\Debug\ConvertCase.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ConvertCase\ConvertCase\obj\Debug\ConvertCase.pdb
