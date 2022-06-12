@@ -1,0 +1,8 @@
+F:\HandsOn\Introduction to DotNet and C# fundamentals\DIgitAplhabet\DIgitAplhabet\bin\Debug\DIgitAplhabet.exe.config
+F:\HandsOn\Introduction to DotNet and C# fundamentals\DIgitAplhabet\DIgitAplhabet\bin\Debug\DIgitAplhabet.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\DIgitAplhabet\DIgitAplhabet\bin\Debug\DIgitAplhabet.pdb
+F:\HandsOn\Introduction to DotNet and C# fundamentals\DIgitAplhabet\DIgitAplhabet\obj\Debug\DIgitAplhabet.csproj.AssemblyReference.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\DIgitAplhabet\DIgitAplhabet\obj\Debug\DIgitAplhabet.csproj.SuggestedBindingRedirects.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\DIgitAplhabet\DIgitAplhabet\obj\Debug\DIgitAplhabet.csproj.CoreCompileInputs.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\DIgitAplhabet\DIgitAplhabet\obj\Debug\DIgitAplhabet.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\DIgitAplhabet\DIgitAplhabet\obj\Debug\DIgitAplhabet.pdb
