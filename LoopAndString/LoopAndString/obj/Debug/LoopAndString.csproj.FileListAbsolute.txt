@@ -1,0 +1,8 @@
+F:\HandsOn\Introduction to DotNet and C# fundamentals\LoopAndString\LoopAndString\bin\Debug\LoopAndString.exe.config
+F:\HandsOn\Introduction to DotNet and C# fundamentals\LoopAndString\LoopAndString\bin\Debug\LoopAndString.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\LoopAndString\LoopAndString\bin\Debug\LoopAndString.pdb
+F:\HandsOn\Introduction to DotNet and C# fundamentals\LoopAndString\LoopAndString\obj\Debug\LoopAndString.csproj.AssemblyReference.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\LoopAndString\LoopAndString\obj\Debug\LoopAndString.csproj.SuggestedBindingRedirects.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\LoopAndString\LoopAndString\obj\Debug\LoopAndString.csproj.CoreCompileInputs.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\LoopAndString\LoopAndString\obj\Debug\LoopAndString.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\LoopAndString\LoopAndString\obj\Debug\LoopAndString.pdb
