@@ -1,0 +1,8 @@
+F:\HandsOn\Introduction to DotNet and C# fundamentals\PlaceValue\PlaceValue\bin\Debug\PlaceValue.exe.config
+F:\HandsOn\Introduction to DotNet and C# fundamentals\PlaceValue\PlaceValue\bin\Debug\PlaceValue.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\PlaceValue\PlaceValue\bin\Debug\PlaceValue.pdb
+F:\HandsOn\Introduction to DotNet and C# fundamentals\PlaceValue\PlaceValue\obj\Debug\PlaceValue.csproj.AssemblyReference.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\PlaceValue\PlaceValue\obj\Debug\PlaceValue.csproj.SuggestedBindingRedirects.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\PlaceValue\PlaceValue\obj\Debug\PlaceValue.csproj.CoreCompileInputs.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\PlaceValue\PlaceValue\obj\Debug\PlaceValue.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\PlaceValue\PlaceValue\obj\Debug\PlaceValue.pdb
