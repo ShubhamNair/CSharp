@@ -1,0 +1,8 @@
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ArrayOperation\ArrayOperation\bin\Debug\ArrayOperation.exe.config
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ArrayOperation\ArrayOperation\bin\Debug\ArrayOperation.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ArrayOperation\ArrayOperation\bin\Debug\ArrayOperation.pdb
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ArrayOperation\ArrayOperation\obj\Debug\ArrayOperation.csproj.AssemblyReference.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ArrayOperation\ArrayOperation\obj\Debug\ArrayOperation.csproj.SuggestedBindingRedirects.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ArrayOperation\ArrayOperation\obj\Debug\ArrayOperation.csproj.CoreCompileInputs.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ArrayOperation\ArrayOperation\obj\Debug\ArrayOperation.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\ArrayOperation\ArrayOperation\obj\Debug\ArrayOperation.pdb
