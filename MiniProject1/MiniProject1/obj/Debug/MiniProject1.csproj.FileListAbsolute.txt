@@ -1,0 +1,3 @@
+F:\HandsOn\Introduction to DotNet and C# fundamentals\MiniProject1\MiniProject1\obj\Debug\MiniProject1.csproj.AssemblyReference.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\MiniProject1\MiniProject1\obj\Debug\MiniProject1.csproj.SuggestedBindingRedirects.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\MiniProject1\MiniProject1\obj\Debug\MiniProject1.csproj.CoreCompileInputs.cache
