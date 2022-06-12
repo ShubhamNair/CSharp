@@ -1,0 +1,8 @@
+F:\HandsOn\Introduction to DotNet and C# fundamentals\Operations\Operations\bin\Debug\Operations.exe.config
+F:\HandsOn\Introduction to DotNet and C# fundamentals\Operations\Operations\bin\Debug\Operations.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\Operations\Operations\bin\Debug\Operations.pdb
+F:\HandsOn\Introduction to DotNet and C# fundamentals\Operations\Operations\obj\Debug\Operations.csproj.AssemblyReference.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\Operations\Operations\obj\Debug\Operations.csproj.SuggestedBindingRedirects.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\Operations\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\Operations\Operations\obj\Debug\Operations.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\Operations\Operations\obj\Debug\Operations.pdb
