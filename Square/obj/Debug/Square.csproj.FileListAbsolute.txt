@@ -1,0 +1,8 @@
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\bin\Debug\HandsOn1.exe.config
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\bin\Debug\HandsOn1.exe
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\bin\Debug\HandsOn1.pdb
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\Square.csproj.AssemblyReference.cache
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\Square.csproj.SuggestedBindingRedirects.cache
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\Square.csproj.CoreCompileInputs.cache
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\HandsOn1.exe
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\HandsOn1.pdb

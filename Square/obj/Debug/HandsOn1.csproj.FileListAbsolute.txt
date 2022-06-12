@@ -1,0 +1,16 @@
+F:\HandsOn\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\HandsOn1.csproj.AssemblyReference.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\HandsOn1.csproj.SuggestedBindingRedirects.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\HandsOn1.csproj.CoreCompileInputs.cache
+F:\HandsOn\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\bin\Debug\HandsOn1.exe.config
+F:\HandsOn\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\bin\Debug\HandsOn1.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\bin\Debug\HandsOn1.pdb
+F:\HandsOn\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\HandsOn1.exe
+F:\HandsOn\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\HandsOn1.pdb
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\bin\Debug\HandsOn1.exe.config
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\bin\Debug\HandsOn1.exe
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\bin\Debug\HandsOn1.pdb
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\HandsOn1.csproj.AssemblyReference.cache
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\HandsOn1.csproj.SuggestedBindingRedirects.cache
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\HandsOn1.csproj.CoreCompileInputs.cache
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\HandsOn1.exe
+F:\HandsOn\module 2\Introduction to DotNet and C# fundamentals\HandsOn1\HandsOn1\obj\Debug\HandsOn1.pdb
